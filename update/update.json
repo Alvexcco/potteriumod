@@ -2,7 +2,7 @@
   "1.21.4": {
     "latest_version": "7.2.1",
     "min_java_version": 21,
-    "download_url": "https://github.com/Alvexcco/potteriumod/releases/download/7.2.1/potterium-mod-7.2.1.jar",
+    "download_url": "https://github.com/Alvexcco/potteriumod/releases/download/7.2.2/potterium-mod-7.2.2.jar",
     "changelog": "Adicionado menu no inventario, botao loja e melhorias no HUD."
   }
 }
