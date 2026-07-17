@@ -1,8 +1,8 @@
 {
   "1.21.4": {
-    "latest_version": "7.3.2",
+    "latest_version": "7.3.3",
     "min_java_version": 21,
-    "download_url": "https://github.com/Alvexcco/potteriumod/releases/download/7.3.2/potterium-mod-7.3.2.jar",
+    "download_url": "https://github.com/Alvexcco/potteriumod/releases/download/7.3.3/potterium-mod-7.3.3.jar",
     "changelog": "Melhorias"
   }
 }
